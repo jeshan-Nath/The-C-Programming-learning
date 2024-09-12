@@ -15,3 +15,5 @@ This repository is dedicated to documenting my journey as I learn and master C p
 - **C Language**: The primary language for all code and examples.
 - **GCC Compiler**: For compiling and running C programs.
 - **Visual Studio Code**: My IDE of choice for writing and debugging code.
+
+Author: Jeshan nath
